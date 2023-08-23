@@ -4,6 +4,3 @@ Description Create a Launch Configuration in order to deploy four servers, two l
 
 Files included: network.yaml - CloudFormation network infrastructure stack description. network_parameters.json - Parameters file for the network infrastructure stack server.yaml - CloudFormation services infrastructure stack description server_parameters.json - Parameters file for the services infrastructure stack create_network.sh - bash script for managing network infrastructure stack create_servers.sh - bash script for managing services infrastructure stack infrastructure-diagram.png - infrastructure diagram
 
-Upon step 1 successful completion, execute services infrastructure stack Usage: services.yaml create
-
-Output Services stack outputs the final website URL.
