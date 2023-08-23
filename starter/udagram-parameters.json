@@ -1,0 +1,10 @@
+[
+    {
+      "ParameterKey": "EnvironmentName",
+      "ParameterValue": "cloudformation-server"
+    },
+    {
+      "ParameterKey": "NetworkEnvironmentName",
+      "ParameterValue": "cloudformation-network"
+    }
+  ]
